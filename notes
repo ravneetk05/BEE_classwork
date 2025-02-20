@@ -1,0 +1,12 @@
+
+npm init -y
+npm  install express ejs
+=> to start server nodemon server.js
+
+fer chrome par =>(http://localhost:5656/profile/username=ravneet)
+yeh type karna  aur profile os f page of ravneet will come 
+
+
+
+second for id wla we will http://localhost:5656/profile/:5
+aur =>profile page of user :5  
