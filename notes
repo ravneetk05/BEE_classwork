@@ -10,3 +10,22 @@ yeh type karna  aur profile os f page of ravneet will come
 
 second for id wla we will http://localhost:5656/profile/:5
 aur =>profile page of user :5  
+
+
+
+form action mtlb konse route par jana
+name mei jo like gye vo key bne gye 
+
+
+
+27 FEB
+MongoDB
+SQL mei user table create karte ha fer structure {schema} == define karte ha like name, key, age, 
+eg ==  MYSQL ,
+NOSQL == NO structure  eg MongoDB,redis, dynodb, graph data, neo4J.
+
+
+  MONGODB =1.  mutliple  COLLECTIONS   eg user ka data user mei , age ka age mei /
+  2. document === key value pair hote ha jo collection mei add hote ha  
+    to create collection 
+    debugger.users 
